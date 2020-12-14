@@ -33,6 +33,6 @@ So here I am, finally documenting my journey. Like what Gary Vee often preached,
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hxkoey/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hxkoey/2" alt="Recent Article 2"></a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hxkoey/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hxkoey/2" alt="Recent Article 3"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hxkoey/3"></a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hxkoey/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hxkoey/2" alt="Recent Article 4"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hxkoey/4"></a>
